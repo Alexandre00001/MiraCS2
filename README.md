@@ -18,15 +18,6 @@ Este aplicativo permite alternar a mira para a AWP no jogo CS2 com um simples pr
 - **Alternar mira**: Ao pressionar a tecla **C**, a mira da AWP será ativada ou desativada.
 - **Visibilidade da mira**: A mira aparecerá na tela enquanto ativada, e será ocultada quando desativada.
 
-## Como compilar (opcional)
-
-Se você deseja compilar o código você mesmo, siga os seguintes passos:
-
-1. Clone este repositório.
-2. Abra o projeto no **Visual Studio** (ou qualquer IDE que suporte C#).
-3. Compile o projeto para gerar o executável `Crosshair.exe`.
-4. Execute o executável no seu sistema.
-
 ## Licença
 
 Este projeto é de código aberto e pode ser utilizado conforme a licença **MIT**.
