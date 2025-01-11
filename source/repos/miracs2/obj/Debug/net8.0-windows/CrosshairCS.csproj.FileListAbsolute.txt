@@ -1,0 +1,17 @@
+C:\Users\black\source\repos\miracs2\bin\Debug\net8.0-windows\CrosshairCS.exe
+C:\Users\black\source\repos\miracs2\bin\Debug\net8.0-windows\CrosshairCS.deps.json
+C:\Users\black\source\repos\miracs2\bin\Debug\net8.0-windows\CrosshairCS.runtimeconfig.json
+C:\Users\black\source\repos\miracs2\bin\Debug\net8.0-windows\CrosshairCS.dll
+C:\Users\black\source\repos\miracs2\bin\Debug\net8.0-windows\CrosshairCS.pdb
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\miracs2.Form1.resources
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\CrosshairForm.resources
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\CrosshairCS.csproj.GenerateResource.cache
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\CrosshairCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\CrosshairCS.AssemblyInfoInputs.cache
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\CrosshairCS.AssemblyInfo.cs
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\CrosshairCS.csproj.CoreCompileInputs.cache
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\CrosshairCS.dll
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\refint\CrosshairCS.dll
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\CrosshairCS.pdb
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\CrosshairCS.genruntimeconfig.cache
+C:\Users\black\source\repos\miracs2\obj\Debug\net8.0-windows\ref\CrosshairCS.dll
