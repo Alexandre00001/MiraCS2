@@ -4,14 +4,15 @@ Este aplicativo permite alternar a mira para a AWP no jogo CS2 com um simples pr
 
 ## Como usar
 
-1. **Baixe o arquivo** `Crosshair.exe` na seção de releases do GitHub.
+1. **Baixe o arquivo** Todos os arquivos na seção de CrosshairCS2 do GitHub.
 2. **Execute o aplicativo** `Crosshair.exe`.
 3. **Pressione a tecla "C"** para alternar entre ativar ou desativar a mira.
+4. **Alterne o CS2 de tela cheia para tela cheia em janela ou modo janela.
 
 ## Requisitos
 
 - **Windows**: O aplicativo foi desenvolvido para sistemas Windows.
-- **Jogo CS2**: Este aplicativo foi projetado para ser usado no jogo CS2 (Counter-Strike 2).
+- **Jogo Qualquer**: Este aplicativo foi projetado para ser usado em qualquer tipo de jogo.
 
 ## Funcionalidade
 
